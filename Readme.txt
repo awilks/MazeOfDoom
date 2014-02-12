@@ -1,12 +1,5 @@
 !!!!!! main method is in the class called MazeGame
 	
-	
-Important!
-The game needs a relativley new version of java to run(1.5 I think)
-To compile it do not use java desktop
-You can use eclise or any updated ide
-You can also compile on the command prompt
-
 How To make a Map:
 
 Type the number of rows and the number of columns on the first  2 lines
